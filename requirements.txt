@@ -1,0 +1,11 @@
+langchain==0.3.7
+langchain-core==0.3.32
+langchain-community==0.3.7
+langchain-ollama==0.2.2
+langchain-text-splitters==0.3.5
+
+requests==2.31.0
+duckduckgo-search==6.2.0
+wikipedia==1.4.0
+fastapi==0.115.0
+uvicorn==0.30.6
