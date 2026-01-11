@@ -13,6 +13,14 @@ Predictable behavior
 
 Fast local inference (CPU-friendly)
 
+## Design Decisions
+
+- Agents were intentionally avoided to ensure predictability.
+- Wikipedia is used only for entity lookup, not reasoning.
+- Comparative questions are answered via constrained LLM prompts.
+- Memory is in-process and session-based for simplicity.
+
+
 ✨ Features
 
 ✅ Runs 100% locally (no OpenAI, no cloud)
