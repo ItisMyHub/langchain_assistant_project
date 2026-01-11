@@ -1,3 +1,4 @@
+Tested with Python 3.12
 Local AI Assistant (LangChain + Ollama + FastAPI)
 
 A fully local, free AI assistant built with LangChain, Ollama, and FastAPI, designed to demonstrate how real assistants should be built — without fragile agents, slow RAG pipelines, or paid APIs.
